@@ -1,7 +1,7 @@
 # GenAI
 
 ## GenAI and classic AI
-If classic AI is the <span style="color:red">wise owl</span>, generative AI is the wiser owl with **a paintbrush and a knack for writing**.
+If classic AI is the **wise owl**, generative AI is the wiser owl with **a paintbrush and a knack for writing**.
 
 Traditional AI can recognize, classify, and cluster, but **not generate the data** it is trained on. Plus, classic AI models are usually focused on a **single task**. 
 
